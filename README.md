@@ -1,6 +1,6 @@
 # 🔢 Finite Automata for Lexical Analysis
 
-Hand-built finite-state automata in Python for recognizing and parsing numbers, lexing arithmetic expressions, and evaluating prefix expressions — completed as part of the Language Theory (Théorie des Langages) course at **Grenoble INP - Ensimag**.
+Hand-built finite-state automata in Python for recognizing and parsing numbers, lexing arithmetic expressions, and evaluating prefix expressions - completed as part of the Language Theory (Théorie des Langages) course at **Grenoble INP - Ensimag**.
 
 ## What it does
 
